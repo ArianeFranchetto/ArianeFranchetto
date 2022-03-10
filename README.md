@@ -16,13 +16,6 @@ Eu sou a Ariane Franchetto.
   
 </div>
 
-  <div style="display: inline_block"> <br>
-      
-  <img align="center" height="50" width="50" src="https://cdn-icons.flaticon.com/png/512/377/premium/377180.png?token=exp=1636423543~hmac=8986402487014c92ecae5a3d12cfcdaf">
-  <img align="center" height="50" width="50" src="https://cdn-icons.flaticon.com/png/512/377/premium/377302.png?token=exp=1636423502~hmac=47b7cdb2dfbf92d213559da1e4c3bcec">
-  <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1548/1548740.png">
- 
-   
-  </div>
+
   
   
