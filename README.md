@@ -4,6 +4,7 @@ Eu sou a Ariane Franchetto.
 
 
 🌱 Estudando Sistemas da Informação
+💻 Se especializando em REACT.
 
 <div>
    <img align="right" height="100" width"100" src="https://media.discordapp.net/attachments/725138972900327424/907456697679888384/picasion.com_e9058dd7f3206312753c9438c6038a10.gif">
