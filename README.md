@@ -3,7 +3,7 @@ Eu sou a Ariane Franchetto.
 
 
 
-🌱 Estudando Sistemas da Informação
+🌱 Estudando Sistemas da Informação <br>
 💻 Se especializando em REACT.
 
 <div>
