@@ -1,3 +1,4 @@
+<div>
 ⚙️ I use daily: .jsx, .tsx, .js, .html, .scss, .css, .json
 🌱 Learning more about and studying: ReactJS, NextJs.
 💜 Interests: games 🎮 , dogs and cats 🐶, beach 🏖️.
@@ -6,6 +7,7 @@
 Find me around the web 🌎:
 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/ariane-franchetto-8ab3ab145/> LinkedIn </a>
 
+   </div>
 
 <div>
    <img align="right" height="100" width"100"  border-radius:"50px"
