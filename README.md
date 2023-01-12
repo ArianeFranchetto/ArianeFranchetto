@@ -1,7 +1,7 @@
 <div>
 ⚙️ I use daily: .jsx, .tsx, .js, .html, .scss, .css, .json
    
-🌱 Learning more about and studying: ReactJS, NextJs.
+🌱 Learning more about and studying: VueJs, Vuex and VueRouter.
 
 💜 Interests: games 🎮 , dogs and cats 🐶, beach 🏖️.
 
