@@ -1,14 +1,14 @@
 <div>
-⚙️ I use daily: .jsx, .tsx, .js, .html, .scss, .css, .json
+⚙️ I use daily: .html, .scss, .css, .json, .js, .sql .python
    
-🌱 Learning more about and studying: VueJs, Vuex and VueRouter.
+🌱 Learning more about and studying: VueJs, Python and SQL
 
 💜 Interests: games 🎮 , dogs and cats 🐶, beach 🏖️.
 
 
 Find me around the web 🌎:
 
-   💼 Connecting and sharing professional updates on LinkedIn: https://www.linkedin.com/in/ariane-franchetto-8ab3ab145/
+   💼 Connecting and sharing professional updates on LinkedIn: https://www.linkedin.com/in/ariane-franchetto/
 
    </div>
 
