@@ -1,28 +1,32 @@
-<div>
-⚙️ I use daily: .html, .scss, .css, .json, .js, .sql .python
-   
-🌱 Learning more about and studying: VueJs, Python and SQL
+# Olá, eu sou a Ariane Franchetto 👋
 
-💜 Interests: games 🎮 , dogs and cats 🐶, beach 🏖️.
+Analista de Suporte N3 | Especialista em Automação & Governança de TI
 
+Sou uma profissional focada em transformar operações de tecnologia através de automação e processos eficientes. Minha expertise está em garantir a estabilidade de ambientes críticos e a excelência operacional (100% SLA).
 
-Find me around the web 🌎:
+---
 
-   💼 Connecting and sharing professional updates on LinkedIn: https://www.linkedin.com/in/ariane-franchetto/
+🚀 O que eu entrego hoje:
 
-   </div>
+Automação de Processos: Engenharia de workflows utilizando n8n, integração de APIs e Webhooks.
+Governança & ITSM: Especialista em SLA/KPIs, Melhoria Contínua (CSI) e frameworks ITIL v4.
+Infraestrutura Avançada: Administração de ambientes Microsoft 365, Azure, Windows Server e Linux.
+Análise de Dados: Queries complexas em SQL e Dashboards para tomada de decisão.
 
-<div>
-   <img align="right" height="100" width"100"  border-radius:"50px"
-        src="https://media.discordapp.net/attachments/725138972900327424/907456697679888384/picasion.com_e9058dd7f3206312753c9438c6038a10.gif">
-  </div>
+🛠️ Tech Stack & Tools:
 
-<div>
-  <a href="https://github.com/ArianeFranchetto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArianeFranchetto&show_icons=true&theme=onedark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianeFranchetto&layout=compact&langs_count=16&theme=onedark"/>
-  
-</div>
+Automação: n8n, JavaScript, JSON, REST APIs.
+Data & Front: SQL Server, MySQL, Vue.js, Tailwind CSS.
+Ops:Active Directory, Azure, Backup & DR (Acronis/Veeam).
+Sistemas: Windows Server, Ubuntu/Debian.
+
+---
+
+🌐 Conecte-se comigo:
+
+* [**Meu Portfólio no Notion**](https://www.notion.so/Ariane-Franchetto-Technical-Support-Solutions-2f8da046eb618015a15cc93cb192b99e?source=copy_link) 🚀
+* [**LinkedIn**](https://www.linkedin.com/in/ariane-franchetto/) 💼
+
 
 
   
