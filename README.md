@@ -8,17 +8,17 @@ Sou uma profissional focada em transformar operações de tecnologia através de
 
 🚀 O que eu entrego hoje:
 
-Automação de Processos: Engenharia de workflows utilizando n8n, integração de APIs e Webhooks.
-Governança & ITSM: Especialista em SLA/KPIs, Melhoria Contínua (CSI) e frameworks ITIL v4.
-Infraestrutura Avançada: Administração de ambientes Microsoft 365, Azure, Windows Server e Linux.
-Análise de Dados: Queries complexas em SQL e Dashboards para tomada de decisão.
+Automação de Processos: Engenharia de workflows utilizando n8n, integração de APIs e Webhooks.<br>
+Governança & ITSM: Especialista em SLA/KPIs, Melhoria Contínua (CSI) e frameworks ITIL v4.<br>
+Infraestrutura Avançada: Administração de ambientes Microsoft 365, Azure, Windows Server e Linux.<br>
+Análise de Dados: Queries complexas em SQL e Dashboards para tomada de decisão.<br>
 
 🛠️ Tech Stack & Tools:
 
-Automação: n8n, JavaScript, JSON, REST APIs.
-Data & Front: SQL Server, MySQL, Vue.js, Tailwind CSS.
-Ops:Active Directory, Azure, Backup & DR (Acronis/Veeam).
-Sistemas: Windows Server, Ubuntu/Debian.
+Automação: n8n, JavaScript, JSON, REST APIs.<br>
+Data & Front: SQL Server, MySQL, Vue.js, Tailwind CSS.<br>
+Ops:Active Directory, Azure, Backup & DR (Acronis/Veeam).<br>
+Sistemas: Windows Server, Ubuntu/Debian.<br>
 
 ---
 
